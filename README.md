@@ -1,4 +1,4 @@
-<h1>Hi, I'm Esther, an aspiring IT Professional 😁</h1>
+<h1>Hi, I'm Esther, an aspiring IT Professional 😁👋🏾</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
