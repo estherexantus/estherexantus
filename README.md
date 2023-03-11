@@ -9,4 +9,4 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/estherexantus/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/estherexantus/azure-network-protocols)
-  - [Building Intuition for DNS](https://github.com/estherexantus/azure-network-protocols)
+  - [Building Intuition for DNS](https://github.com/estherexantus/inspect-dns-records)
